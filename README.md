@@ -3,6 +3,7 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/marcos-felipe-gava-093910263/" target="_blank"
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
   <a href="https://www.instagram.com/_fgava/?hl=pt-br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="20" alt="instagram logo"  />
